@@ -1,0 +1,7 @@
+export {default as CartSide} from "./CartSide.vue"
+export {default as HeaderPart} from "./HeaderPart.vue"
+export {default as MobileMenu} from "./MobileMenu.vue"
+export {default as Navbar} from "./Navbar.vue"
+export {default as NewsPart} from "./NewsPart.vue"
+export {default as Footer} from "./Footer.vue"
+export {default as LoginModal} from "./LoginModal.vue"
